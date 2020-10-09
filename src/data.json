@@ -1,0 +1,57 @@
+{
+    "products": [
+        {
+            "_id": "suit1",
+            "images" : "/images/suit-1.jpg",
+            "title": "Men Suit Prince Style",
+            "description": "A new trend in market. Elegent and stylish. Also available for all sizes.",
+            "price": 10000,
+            "availableSizes": ["S", "M", "L", "XL", "XXL"]
+        },
+
+        {
+            "_id": "suit2",
+            "images" : "/images/suit-2.jpg",
+            "title": "Men Suit Plane Design",
+            "description": "A common trend in market. Elegent and stylish. Only available for 2 sizes.",
+            "price": 7000,
+            "availableSizes": ["L", "XL"]
+        },
+
+        {
+            "_id": "suit3",
+            "images" : "/images/suit-3.jpg",
+            "title": "Men Suit in Check",
+            "description": "A new trend in market. Elegent and stylish. only available for 3 sizes.",
+            "price": 8000,
+            "availableSizes": ["L", "XL", "XXL"]
+        },
+
+        {
+            "_id": "suit4",
+            "images" : "/images/suit-4.jpg",
+            "title": "Men 3 Piece Suit Royal Design",
+            "description": "Mostly used in wedding ceremony. Elegent and stylish. Also available for all sizes.",
+            "price": 12000,
+            "availableSizes": ["S", "M", "L", "XL", "XXL"]
+        },
+
+        {
+            "_id": "suit5",
+            "images" : "/images/suit-5.jpg",
+            "title": "Men 3 Piece Suit Wedding Style",
+            "description": "A new trend in market. Elegent and stylish. Only available for 2 sizes.",
+            "price": 11000,
+            "availableSizes": ["M", "L"]
+        },
+
+        {
+            "_id": "suit6",
+            "images" : "/images/suit-6.jpg",
+            "title": "Men 3 Piece Suit in Lining",
+            "description": "A new trend in market. Elegent and stylish. Also available for 4 sizes.",
+            "price": 11000,
+            "availableSizes": ["S", "M", "L", "XL"]
+        }
+    ]
+}
