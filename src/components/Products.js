@@ -96,10 +96,10 @@ class Products extends Component {
             </Zoom>
           </Modal>
         )}
-      </div>
+      </div> 
     );
   }
 }
-export default connect((state) => ({ products: state.products.item }), {
+export default connect((state) => ({ products: state.products.filteredItems }), {
   fetchProducts,
 })(Products);
